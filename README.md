@@ -133,3 +133,4 @@ are as follows:
 -s a compiled language so there is no standard linter.
 - Terraform - terraform has a built-in linter in the `terraform validate` command.
 - Dockerfiles - hadolint. Can be found in homebrew
+# terraform
